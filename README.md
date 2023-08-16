@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blackwidow-sudo
-- 👀 I’m interested in C, JavaScript, ReactJS, Open-Source, Unix-like Systems
-- 🌱 I’m currently learning all of the above
+- 👀 I’m interested in C, Rust, JS, Python, Svelte, FOSS, Unix-like Systems and pretty much anything about Web-Development
+- 🌱 I’m currently learning Rust while using the Tauri Framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
