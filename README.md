@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blackwidow-sudo
-- 👀 I’m interested in C, Rust, JS, Python, Svelte, FOSS, Unix-like Systems and pretty much anything about Web-Development
-- 🌱 I’m currently learning Rust while using the Tauri Framework
+- 👀 I’m interested in Go, Rust, JS, Python, Svelte, FOSS, POSIX Systems and pretty much anything about Web-Development
+- 🌱 I’m currently learning to build small apps with Go
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
